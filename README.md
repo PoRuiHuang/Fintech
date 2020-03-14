@@ -1,0 +1,1 @@
+This is a fintech project which implement some technical pointer in stock market; which include OLHC, MACD implement, DP in stock Market, and prediction of buying and selling for MSCI. Hope you enjoy.
